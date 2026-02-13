@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Rehman Ghani  
-### Full Stack Developer | AI Enthusiast | Backend Architect
 
----
+
+
 
 ## 🚀 Professional Summary
 
-Passionate Full Stack Developer with strong experience in building scalable web applications, real-time systems, and AI-driven solutions.  
+Passionate for Full Stack Developement with strong experience in building scalable web applications, real-time systems, and AI-driven solutions.  
 Focused on clean architecture, performance optimization, and production-ready systems.
 
 ---
