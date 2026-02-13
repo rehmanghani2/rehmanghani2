@@ -97,11 +97,14 @@ Focused on clean architecture, performance optimization, and production-ready sy
 
 ---
 
-## 📫 Contact
+## 🌐 Connect With Me
 
-- 📍 Pakistan  
-- 📧 rehmanghani2323@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/rehman-ghani-8ba09a358 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rehman-ghani-8ba09a358)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YOUR_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmanghani2323@gmail.com)
+
 
 ---
 
