@@ -90,12 +90,6 @@ Focused on clean architecture, performance optimization, and production-ready sy
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanghani2&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanghani2&layout=compact)
-
 ## 📊 GitHub Streak
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rehmanghani2&theme=dark&hide_border=false)
