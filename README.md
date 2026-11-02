@@ -92,7 +92,8 @@ Focused on clean architecture, performance optimization, and production-ready sy
 
 ## 📊 GitHub Streak
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rehmanghani2&theme=dark&hide_border=false)
+![GitHub Streak](<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/e43bd6c7-c3b3-4600-998f-d6bb2d3197af" />
+)
 
 
 ---
