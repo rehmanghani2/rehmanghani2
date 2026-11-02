@@ -92,8 +92,7 @@ Focused on clean architecture, performance optimization, and production-ready sy
 
 ## 📊 GitHub Streak
 
-![GitHub Streak](<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/e43bd6c7-c3b3-4600-998f-d6bb2d3197af" />
-)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehmanghani2&theme=dark)](https://github.com/rehman-ghani2)
 
 
 ---
